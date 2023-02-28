@@ -1,1 +1,1 @@
-# Natural-Language-Procesing-courseera-course
+# Natural-Language-Procesing-coursera-course
